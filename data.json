@@ -1,18 +1,15 @@
 {
   "artist": {
-    "name": "Emma",
+    "name": "Luca J.L.V.",
     "avatar": "/images/avatar.jpg",
-    "shortBio": "Generative Artist",
+    "shortBio": "3D Artist",
     "socials": [
-      { "icon": "FaHome", "url": "https://mike.gold" },
-      { "icon": "FaTwitter", "url": "https://twitter.com/michaelgold" },
-      { "icon": "FaGithub", "url": "https://github.com/michaelgold" },
-      { "icon": "FaLinkedin", "url": "https://linkedin.com/in/gold1" },
-      { "icon": "FaUniversity", "url": "https://sva.edu/faculty/michael-gold" }
+      { "icon": "FaTwitter", "url": "https://twitter.com/cryptiddog" },
+      { "icon": "FaGithub", "url": "https://github.com/MisterFarenheit" },
     ]
   },
   "project": {
-    "name": "AR Gallery Example"
+    "name": "AR Bean Gallery"
   },
   "models": [
     {
