@@ -5,7 +5,7 @@
     "shortBio": "3D Artist",
     "socials": [
       { "icon": "FaTwitter", "url": "https://twitter.com/cryptiddog" },
-      { "icon": "FaGithub", "url": "https://github.com/MisterFarenheit" },
+      { "icon": "FaGithub", "url": "https://github.com/MisterFarenheit" }
     ]
   },
   "project": {
@@ -13,43 +13,43 @@
   },
   "models": [
     {
-      "name": "Gold Cube",
-      "glbFile": "/assets/gold-cube.glb",
+      "name": "Bean Monster 1",
+      "glbFile": "/assets/Bean_Monster_Instancing_V1.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "gold" },
-        { "trait_type": "material", "value": "metal" }
+        { "trait_type": "Sprout 1", "value": "Orange" },
+        { "trait_type": "Sprout 2", "value": "Gold" },
+        { "trait_type": "Sprout 3", "value": "Green" },
+        { "trait_type": "Sprout 4", "value": "Blue" }
       ]
     },
     {
-      "name": "Silver Cube",
-      "glbFile": "/assets/silver-cube.glb",
+      "name": "Bean Monster 2",
+      "glbFile": "/assets/Bean_Monster_Instancing2.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "silver" },
-        { "trait_type": "material", "value": "metal" }
+        { "trait_type": "Sprout 1", "value": "Yellow" },
+        { "trait_type": "Sprout 2", "value": "Purple" },
+        { "trait_type": "Sprout 3", "value": "Purple" },
+        { "trait_type": "Sprout 4", "value": "Yellow" }
       ]
     },
     {
-      "name": "Red Cube",
-      "glbFile": "/assets/red-cube.glb",
+      "name": "Bean Monster 3",
+      "glbFile": "/assets/Bean_Monster_Instancing3.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "red" },
-        { "trait_type": "material", "value": "plastic" }
+        { "trait_type": "Sprout 1", "value": "Blue" },
+        { "trait_type": "Sprout 2", "value": "Purple" },
+        { "trait_type": "Sprout 3", "value": "Yellow" },
+        { "trait_type": "Sprout 4", "value": "Orange" }
       ]
     },
     {
-      "name": "Green Cube",
-      "glbFile": "/assets/green-cube.glb",
+      "name": "Bean Monster 4",
+      "glbFile": "/assets/Bean_Monster_Instancing4.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "green" },
-        { "trait_type": "material", "value": "plastic" }
+        { "trait_type": "Sprout 1", "value": "Purple" },
+        { "trait_type": "Sprout 2", "value": "Green" },
+        { "trait_type": "Sprout 3", "value": "Blue" },
+        { "trait_type": "Sprout 4", "value": "Yellow" }
       ]
     }
   ]
